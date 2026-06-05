@@ -10,3 +10,6 @@
 
 # 保留 .gitkeep
 !.gitkeep
+
+# 例外：维护者头像 / 二维码等仓库自身展示用图
+!wechat-qr.png

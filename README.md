@@ -96,6 +96,11 @@
 
 MIT — 自由使用、修改、分发，标注来源即可。
 
-## 维护
+## 维护 / 联系
 
-@sheltonyou — 香港保诚保险代理 / 内地客户跨境身份咨询。公众号同步更新。
+- **GitHub**: [@sheltonyou](https://github.com/sheltonyou)
+- **微信**: `yourun1989`
+
+<img src="wechat-qr.png" alt="WeChat QR" width="240">
+
+香港保诚保险代理 / 内地客户跨境身份咨询。公众号同步更新。续签材料 / 协助处理咨询服务可加微信聊。

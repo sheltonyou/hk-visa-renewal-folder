@@ -1,0 +1,12 @@
+# 不要把任何真实材料 push 到这个公开 repo
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.docx
+*.xlsx
+.DS_Store
+
+# 保留 .gitkeep
+!.gitkeep

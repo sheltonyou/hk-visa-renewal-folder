@@ -13,3 +13,8 @@
 
 # 例外：维护者头像 / 二维码等仓库自身展示用图
 !wechat-qr.png
+
+# 例外：examples/ 下的虚构演示文件（fake demo，0 真实数据）
+# 命名信号：客户名一律是 "高才通" / "GAOCAITONG"，跟签证类型同名 = 自带 "这是 demo" 信号
+!examples/
+!examples/**
